@@ -8,6 +8,7 @@ h1,
 p,
 a {
   text-align: center;  
+  font: 100;
 }
 
 .croissant-photo {
@@ -20,4 +21,7 @@ a {
     max-width: 100%;
     height: auto;
     
+}
+.div {
+    text-align: center;
 }
