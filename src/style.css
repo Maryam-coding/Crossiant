@@ -5,7 +5,8 @@ body {
 }
 
 h1,
-p {
+p,
+a {
   text-align: center;  
 }
 
@@ -14,4 +15,9 @@ p {
     border-radius: 10px;
     display: block;
     margin: 30px auto;
+}
+.img {
+    max-width: 100%;
+    height: auto;
+    
 }
