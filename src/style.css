@@ -5,13 +5,16 @@ body {
 }
 
 h1,
-p,
-a {
+p {
   text-align: center;  
   font: 100;
 }
 
-.croissant-photo {
+a{
+    text-align: center;
+    font-size: medium;
+}
+.croissant-image {
     max-width: 100%;
     border-radius: 10px;
     display: block;
@@ -22,6 +25,6 @@ a {
     height: auto;
     
 }
-.div {
+div {
     text-align: center;
 }
